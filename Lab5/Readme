@@ -1,0 +1,6 @@
+Lab 5 of NETMET
+
+For this lab we work with nmap.
+
+The goal is to use nmap to find port open, then connect with that port and finally, shutdown the server.
+
